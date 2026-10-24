@@ -1,0 +1,8 @@
+# .gitignore for ChurnGuard Streamlit app
+__pycache__/
+*.py[cod]
+.env
+.venv/
+venv/
+*.egg-info/
+.streamlit/secrets.toml
